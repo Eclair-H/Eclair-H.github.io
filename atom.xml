@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一期一會</title>
+  
+  
+  <link href="https://eclair-h.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://eclair-h.github.io/"/>
+  <updated>2021-06-22T04:48:36.877Z</updated>
+  <id>https://eclair-h.github.io/</id>
+  
+  <author>
+    <name>Eclair</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常用 JS 方法</title>
+    <link href="https://eclair-h.github.io/2021/06/21/%E5%B8%B8%E7%94%A8JS%E6%96%B9%E6%B3%95/"/>
+    <id>https://eclair-h.github.io/2021/06/21/%E5%B8%B8%E7%94%A8JS%E6%96%B9%E6%B3%95/</id>
+    <published>2021-06-21T05:49:28.102Z</published>
+    <updated>2021-06-22T04:48:36.877Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;截取地址欄中的參數&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;name&lt;/strong&gt;為截取關鍵字&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class=&quot;line-numbers language-javascript&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://eclair-h.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="JavaScript" scheme="https://eclair-h.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+</feed>
