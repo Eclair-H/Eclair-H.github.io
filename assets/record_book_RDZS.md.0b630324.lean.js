@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as t,a as p}from"./app.4f6daae5.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"record/book_RDZS.md","lastUpdated":1668072387000}'),c={name:"record/book_RDZS.md"},_=p("",10),l=[_];function a(k,u,b,r,s,q){return t(),e("div",null,l)}const i=o(c,[["render",a]]);export{d as __pageData,i as default};
